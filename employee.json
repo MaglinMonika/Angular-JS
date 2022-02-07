@@ -1,0 +1,18 @@
+{ "details":[
+    {"id":1,"name":"Rohan","age":40,"salary":70000,"emailid":"rohan@gmail.com","phonenum":9836748936,"designation":"Athletic Trainer"},
+    {"id":2,"name":"Nithya","age":30,"salary":55000,"emailid":"nithyas@gmail.com","phonenum":9806745931,"designation":"Brand Manager"},
+    {"id":3,"name":"Janet","age":35,"salary":50000,"emailid":"janetstacy@gmail.com","phonenum":8896748934,"designation":"Finance Manager"},
+    {"id":4,"name":"Verma","age":28,"salary":40000,"emailid":"va@gmail.com","phonenum":9866748986,"designation":"Fitness Director"},
+    {"id":5,"name":"Rahul","age":42,"salary":65000,"emailid":"rahul@gmail.com","phonenum":8096748561,"designation":"Head Coach"},
+    {"id":6,"name":"Stacy","age":33,"salary":66000,"emailid":"sta@gmail.com","phonenum":8966748763,"designation":" Marketing Coordinator"},
+    {"id":7,"name":"Shubham","age":39,"salary":690000,"emailid":"shubham@gmail.com","phonenum":9838928930,"designation":"Medical Assistant"},
+    {"id":8,"name":"Aaron","age":26,"salary":55000,"emailid":"aaron@gmail.com","phonenum":8996748984,"designation":"Personal trainer"},
+    {"id":9,"name":"Ben","age":44,"salary":65000,"emailid":"ben@gmail.com","phonenum":9874748211,"designation":" Recreation Worker"},
+    {"id":10,"name":"Clementine","age":29,"salary":45000,"emailid":"clementine@gmail.com","phonenum":9831238933,"designation":"Sports Writer"},
+    {"id":11,"name":"David","age":30,"salary":50000,"emailid":"dav@gmail.com","phonenum":9222748942,"designation":"Event Manager"},
+    {"id":12,"name":"Elizabeth","age":33,"salary":70000,"emailid":"eliza@gmail.com","phonenum":8834148932,"designation":"Public Relation Manager"},
+    {"id":13,"name":"Ferb","age":46,"salary":60000,"emailid":"ferb@gmail.com","phonenum":8046748933,"designation":"Sports Agents"},
+    {"id":14,"name":"Rakesh","age":41,"salary":72000,"emailid":"rakesh@gmail.com","phonenum":8036778939,"designation":"Sponsorship Manager"}
+]
+
+}
